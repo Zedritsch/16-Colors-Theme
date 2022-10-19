@@ -1,20 +1,20 @@
 {
 	"name": "vscode-zedritsch-theme",
 	"displayName": "Zedritsch Theme",
-	"description": "VS Code all-in-one Theme",
+	"description": "Just another VS Code Theme Extension",
 	"version": "1.0.0",
 	"publisher": "Zedritsch",
 	"author": {
 		"name": "Zedritsch",
 		"email": "contact.zedritsch@gmail.com",
 		"url": "https://zedritsch.tk"},
-	"engines": { "vscode": "^1.53.0" },
+	"engines": { "vscode": "^1.71.0" },
 	"homepage": "https://zedritsch.tk/Zedritsch-Theme",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/Zedritsch/Zedritsch-Theme.git"
 	},
-	"icon": "./assets/logo.png",
+	"icon": "./icon.png",
 	"license": "MIT",
 	"capabilities": {
 		"untrustedWorkspaces": {
@@ -27,33 +27,18 @@
 	],
 	"keywords": [
 		"dark",
-		"light",
-		"icons",
 		"theme",
-		"themes",
 		"vscode",
-		"icon-theme",
 		"customization"
 	],
 	"contributes": {
 		"themes": [
 			{
-				"id": "vs-zedritsch-light-theme",
-				"label": "Zedritsch Light Theme",
-				"uiTheme": "vs",
-				"path": "./themes/light.json"
-			},
-			{
-				"id": "vs-zedritsch-dark-theme",
-				"label": "Zedritsch Dark Theme",
+				"id": "vs-zedritsch-dark",
+				"label": "Zedritsch Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/dark.json"
 			}
-		],
-		"iconThemes": [{
-			"id": "vs-zedritsch-icon-theme",
-			"label": "Zedritsch Icon Theme",
-			"path": "./themes/icons.json"
-		}]
+		]
 	}
 }

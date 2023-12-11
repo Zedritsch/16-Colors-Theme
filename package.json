@@ -1,41 +1,25 @@
 {
-	"name": "vscode-zedritsch-theme",
-	"displayName": "Zedritsch Theme",
-	"description": "Just another VS Code Theme Extension",
-	"version": "1.0.0",
+	"name": "16-colors-theme",
+	"displayName": "16-Colors-Theme",
+	"description": "VS Code theme extension",
+	"version": "0.1.0",
 	"publisher": "Zedritsch",
-	"author": {
-		"name": "Zedritsch",
-		"email": "contact.zedritsch@gmail.com",
-		"url": "https://zedritsch.tk"},
-	"engines": { "vscode": "^1.71.0" },
-	"homepage": "https://zedritsch.tk/Zedritsch-Theme",
+	"engines": { "vscode": "^1.84.0" },
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Zedritsch/Zedritsch-Theme.git"
+		"url": "https://github.com/Zedritsch/16-Colors-Theme.git"
 	},
-	"icon": "./icon.png",
 	"license": "MIT",
-	"capabilities": {
-		"untrustedWorkspaces": {
-			"supported": true
-		},
-		"virtualWorkspaces": true
-	},
-	"categories": [
-		"Themes"
-	],
+	"categories": [ "Themes" ],
 	"keywords": [
 		"dark",
 		"theme",
-		"vscode",
 		"customization"
 	],
 	"contributes": {
 		"themes": [
 			{
-				"id": "vs-zedritsch-dark",
-				"label": "Zedritsch Dark",
+				"label": "16-Colors-Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/dark.json"
 			}

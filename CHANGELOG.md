@@ -1,4 +1,8 @@
 # Changelog
+## v0.1.3
+### Fixes
+* Wrong semantic highlighting for variables
+
 ## v0.1.2
 ### Additions
 * `ANSI` colors

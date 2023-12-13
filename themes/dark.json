@@ -801,11 +801,11 @@
 		"number": "#a5d986",
 		"string": "#a5d986",
 		"type": "#7fd4c9",
-		"property": "#eed49f",
-		"variable": "#eed49f",
+		"property": "#9fc5e8",
+		"variable": "#9fc5e8",
 		"function": "#8aadf4",
 		"parameter": {
-			"foreground": "#eed49f",
+			"foreground": "#9fc5e8",
 			"fontStyle": "italic"
 		},
 		/* Untested start */

@@ -2,7 +2,7 @@
 	"name": "16-colors-theme",
 	"displayName": "16-Colors-Theme",
 	"description": "VS Code theme extension",
-	"version": "0.1.3",
+	"version": "0.1.4",
 	"publisher": "Zedritsch",
 	"engines": { "vscode": "^1.84.0" },
 	"repository": {

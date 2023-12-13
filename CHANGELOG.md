@@ -1,4 +1,8 @@
 # Changelog
+## v0.1.4
+### Additions
+* Invalid
+
 ## v0.1.3
 ### Fixes
 * Wrong semantic highlighting for variables

@@ -791,6 +791,10 @@
 		{
 			"scope": "variable.parameter",
 			"settings": { "fontStyle": "italic" }
+		},
+		{
+			"scope": "invalid",
+			"settings": { "foreground": "#ed747e" }
 		}
 	],
 	"semanticHighlighting": true,

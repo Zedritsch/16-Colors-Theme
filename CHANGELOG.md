@@ -1,4 +1,16 @@
 # Changelog
+## v0.1.5
+### Additions
+* Notification & notification center
+* Extension button
+* Progress bar
+* Blockquote
+* Codeblock
+
+### Changes
+* Removed list hover background
+* Set link color to blue
+
 ## v0.1.4
 ### Additions
 * Invalid

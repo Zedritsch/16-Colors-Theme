@@ -1,5 +1,18 @@
-# Change Log
+# Changelog
+## v0.1.2
+### Additions
+* `ANSI` colors
 
-# v1.0.0
+### Changes
+* Darker background on widgets
+* Solid background behind badges
 
-- Initial release
+## v0.1.1
+### Additions
+* Debug toolbar
+* Statusbar
+* Empty background
+
+## v0.1.0
+### Additions
+* `dark` theme

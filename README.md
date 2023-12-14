@@ -1,5 +1,5 @@
 # 16 Colors Theme
-16 Colors is a theme designed on the Catppuccin theme. At first it was a simple rearrangement of Catppuccins colors, but I have and will add my own over time. If you find any unstyled or wrong looking elements using it, feel free to open an issue.
+16 Colors is a theme designed on the Catppuccin theme. At first it was a simple rearrangement of [`Catppuccins`](https://github.com/catppuccin/vscode) colors, but I have and will add my own colors over time. If you find any unstyled or wrong looking elements while using it, feel free to open an issue.
 
 ## Features
 * Editor theme

@@ -1,4 +1,19 @@
 # Changelog
+## v0.1.6
+### Fixes
+* Wrong semantic highlighting for numbers
+
+### Additions
+* Bracket pair colorization
+* Bracket pair guide
+* Input options
+* Editor highlight
+
+### Changes
+* Made keywords bold
+* Made deprecated strikethrough
+* Removed italics from async and abstract symbols
+
 ## v0.1.5
 ### Additions
 * Notification & notification center

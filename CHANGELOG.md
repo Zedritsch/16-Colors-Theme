@@ -1,4 +1,16 @@
 # Changelog
+## v0.2.0
+### Fixes
+* Solid scrollbar
+
+### Additions
+* Missing syntax scopes from default theme
+
+### Changes
+* Foreground color of extension button
+* Removed background from title bar
+* Replaced colors with my own
+
 ## v0.1.6
 ### Fixes
 * Wrong semantic highlighting for numbers

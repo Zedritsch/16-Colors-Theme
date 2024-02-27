@@ -1,4 +1,13 @@
 # Changelog
+## v0.3.0
+### Changes
+* Smoothed color palette
+* Colored bracket pairs red
+* Rearranged terminal colors
+
+### Deletions
+* Highlighting backgrounds and borders
+
 ## v0.2.0
 ### Fixes
 * Solid scrollbar

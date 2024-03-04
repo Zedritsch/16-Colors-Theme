@@ -1,9 +1,17 @@
 # Changelog
 ## v0.3.0
+### Fixes
+* Misleading coloring of the extensions button
+
+### Additions
+* Sticky scroll backgrounds
+* Background on activity badges
+
 ### Changes
 * Smoothed color palette
 * Colored bracket pairs red
 * Rearranged terminal colors
+* Made whitespace less visible
 
 ### Deletions
 * Highlighting backgrounds and borders

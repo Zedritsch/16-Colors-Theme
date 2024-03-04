@@ -1,7 +1,7 @@
 # 16 Colors Theme
-VS Code theme extension. If you find any unstyled or wrong looking elements while using it, feel free to open an issue.
+VS Code theme extension. If you find any unstyled or wrong looking elements, feel free to open an issue.
 
-![Dark Theme - Preview](https://raw.githubusercontent.com/zedritsch/16-colors-theme/main/images/dark.png)
+![Dark Theme - Preview](https://raw.githubusercontent.com/zedritsch/16-colors-theme/main/images/preview.png)
 
 ## Features
 * Editor theme

@@ -27,6 +27,11 @@
 				"label": "16 Colors Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/dark.json"
+			},
+			{
+				"label": "16 Colors Blue",
+				"uiTheme": "vs-dark",
+				"path": "./themes/blue.json"
 			}
 		]
 	}
